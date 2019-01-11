@@ -68,6 +68,8 @@ h1 {
 .MJ {
 	float: left;
 	width: 50%;
-	height: 50%
+	height: 50%;
+	padding-right: 1000px;
+	padding-bottom: 20px;
 }
 
