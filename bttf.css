@@ -45,6 +45,10 @@ body{
   border-bottom: 2px solid green;
 }
 
+ul li a{
+	color:#fdb413;
+}
+
 .page-content{
 	padding: 20px;
 }
